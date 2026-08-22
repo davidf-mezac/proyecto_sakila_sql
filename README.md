@@ -16,7 +16,7 @@ Este repositorio contiene la resolución documentada de **64 consultas SQL** apl
 ## 🗺️ Modelo de Datos (Diagrama ER)
 Para este análisis, se exploró el esquema relacional de Sakila (simulación de un videoclub). A continuación se presenta el diagrama de las tablas principales:
 
-![Diagrama ER Sakila](01 Diagrama ER.png)
+![Diagrama ER Sakila](01%20Diagrama%20ER.png)
 
 ---
 
